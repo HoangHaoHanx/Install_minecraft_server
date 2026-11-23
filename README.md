@@ -191,7 +191,7 @@ flowchart TD
 ### Thông Tin Người Làm Dự Án (Author & Maintainer)
 | Hạng mục | Thông tin |
 | :--- | :--- |
-| **Tác giả / Người làm dự án** | **Nguyễn Văn Duy** *(Project Creator & Maintainer — MC Server VN Suite)* |
+| **Tác giả / Người làm dự án** | **HoangHaoHanx**,**Google antigravity(có hỗ trợ 1 phần)** *(Project Creator & Maintainer — MC Server VN Suite)* |
 | **Vai trò thực hiện** | Thiết kế kiến trúc đa nền tảng (Windows / macOS / Toàn bộ Linux), xây dựng cơ chế cài đặt silent kèm bộ đếm thời gian, đóng gói Giao diện Web GUI (`WebServer.java` + `index.html`), tích hợp `Playit.gg` và chuẩn hóa tương thích `MeowIce Flags` + `Etil Flags` trên GraalVM CE 25 & ARM64. |
 | **Phiên bản phát hành** | `v1.0.0` (Hỗ trợ mặc định **Minecraft `1.21.11`** & đa phiên bản) |
 | **Hỗ trợ & Báo lỗi** | Tiếp nhận góp ý và báo lỗi trực tiếp qua Issue / kênh hỗ trợ của dự án. |
