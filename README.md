@@ -2,7 +2,6 @@
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20(Debian%2FUbuntu)%20%7C%20macOS-blue?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-OpenJDK%2021-orange?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-OpenJDK%2026-orange?style=for-the-badge)
 ![Minecraft](https://img.shields.io/badge/Server-PaperMC%20%2B%20Crafty%204-brightgreen?style=for-the-badge)
 
 Bộ công cụ tự động hóa giúp cài đặt **Minecraft Server (PaperMC + Java 21)** và **Giao diện Web quản lý (Crafty Controller 4)** trên cả **Windows**, **Linux (Debian/Ubuntu)** và **macOS** chỉ với 1 lần chạy.
