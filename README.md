@@ -1,4 +1,4 @@
-# 🎮 Gói Cài Đặt Tự Động Minecraft Server, Web UI & Playit.gg (Multi-OS)
+# 🎮 Gói Cài Đặt Tự Động Minecraft Server
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20(Debian%2FUbuntu)%20%7C%20macOS-blue?style=for-the-badge)
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.8.8%20%E2%86%92%2026.3-brightgreen?style=for-the-badge)
